@@ -17,11 +17,9 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     execjs (2.8.1)
     fastimage (2.2.5)
-    ffi (1.15.4)
-    ffi (1.15.4-x64-mingw32)
+    ffi (1.15.5)
     forwardable-extended (2.6.0)
     html_press (0.8.2)
       htmlentities
@@ -74,7 +72,7 @@ GEM
     nokogiri (1.12.5)
       mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
-    nokogiri (1.12.5-x64-mingw32)
+    nokogiri (1.12.5-arm64-darwin)
       racc (~> 1.4)
     octopress-hooks (2.6.2)
       jekyll (>= 2.0)
@@ -94,22 +92,16 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
-    sassc (2.4.0-x64-mingw32)
-      ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    tzinfo (2.0.4)
-      concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2021.2)
-      tzinfo (>= 1.0.0)
     uglifier (2.7.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     unicode-display_width (1.8.0)
 
 PLATFORMS
+  arm64-darwin
   ruby
-  x64-mingw32
 
 DEPENDENCIES
   amp-jekyll
@@ -121,4 +113,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   1.17.2
+   2.2.33

@@ -5,6 +5,7 @@ node_modules
 assets
 yarn-error.log
 .yarnclean
+vendor/*
 
 # editors
 .idea
