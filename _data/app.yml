@@ -10,8 +10,8 @@ android: false # https://telegra.ph/Replace-this-link-07-23
 iOS: # https://telegra.ph/Replace-this-link-07-23
 web: false # https://telegra.ph/Replace-this-link-07-23
 screenshots:
-  - 1.png
-  - 2.png
+  - SearchList.png
+  - JMdictDetails.png
   - 3.png
   - 4.png
 producthunt: false # https://telegra.ph/Replace-this-link-07-23
