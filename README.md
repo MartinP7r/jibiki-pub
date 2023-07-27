@@ -1,30 +1,8 @@
-## Landing Page Theme
+## Jibiki Public Repository
 
-https://github.com/sandoche/Mobile-app-landingpage-template
+Welcome!  
 
-  <a href="/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="MIT"></a>
+If you found this, you are probably using [Jibiki](https://jibiki.martinp7r.com/).  
+Thank you for your interest and support!
 
-📱 Free to use static generated landing page template for your mobile app
-
-### Pre-requisites
-- NodeJS
-- Ruby, Bundler
-
-### Install
-```
-npm install
-bundler install
-```
-
-### Development
-```
-npm start
-```
-
-### Build
-```
-npm run build
-```
-
-### More documentation
-This templates uses [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate), read more documentation there.
+Feel free to start a [discussion](https://github.com/MartinP7r/jibiki-pub/discussions) or report any [issues](https://github.com/MartinP7r/jibiki-pub/issues).
