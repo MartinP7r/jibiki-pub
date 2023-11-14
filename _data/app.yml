@@ -1,19 +1,19 @@
 name: Jibiki
-description: Japanese Dictionary and Kanji Study Widget
+description: Japanese Dictionary
 full_description: 'A more complete description of the mobile app
 <br>
 <br>Current features:
 <br>- Dictionary Search
-<br>- Notes (= bookmarks)
-<br>- Daily Kanji Widget'
-android: false # https://telegra.ph/Replace-this-link-07-23
-iOS: # https://telegra.ph/Replace-this-link-07-23
-web: false # https://telegra.ph/Replace-this-link-07-23
+<br>- Bookmarks'
+# <br>- Daily Kanji Widget'
+android: false
+iOS: # TODO: link to appstore
+web: false
 screenshots:
-  - SearchList.png
-  - JMdictDetails.png
-  - bookmarks-screen.png
-  - downloads-screen.png
+  - 01-SearchList.png
+  - 02-JMdictDetails.png
+  - 03-bookmarks-screen.png
+  - 04-downloads-screen.png
 producthunt: false # https://telegra.ph/Replace-this-link-07-23
 # companies:
   # - url: https://telegra.ph/Replace-this-link-07-23
