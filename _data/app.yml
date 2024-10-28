@@ -4,10 +4,10 @@ full_description: 'A more complete description of the mobile app
 <br>
 <br>Current features:
 <br>- Dictionary Search
-<br>- Bookmarks'
-# <br>- Daily Kanji Widget'
+<br>- Bookmarks
+<br>- Daily Kanji Widget'
 android: false
-iOS: # TODO: link to appstore
+iOS: https://apps.apple.com/app/id1568906922
 web: false
 screenshots:
   - 01-SearchList.png
